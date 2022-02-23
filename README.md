@@ -1,0 +1,2 @@
+# radtext-resources
+RadText resources
